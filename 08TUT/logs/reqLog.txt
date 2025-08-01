@@ -1,0 +1,54 @@
+2025-07-28	16:02:29	5dda678e-8a42-4a7f-93ce-fc6c00c9d17a	/new-page.html	GET
+2025-07-28	16:02:29	8f379bad-fe70-4a49-a548-2f953e757f0c	/css/style.css	GET
+2025-07-28	16:02:29	01b84f93-2f50-4fde-90f2-367e4ff7e632	/img/img1.jpg	GET
+2025-07-28	16:02:38	2cd85b5c-1568-4167-9b50-325517800dc7	/new-page.html	GET
+2025-07-28	16:02:38	56871fb2-3334-4e0b-9378-ef36a51a67fc	/css/style.css	GET
+2025-07-28	16:02:38	a425790d-45d8-437b-a560-8bdec901305b	/img/img1.jpg	GET
+2025-07-28	16:02:51	0260bf4e-8c9b-430f-8906-4db542d94356	/new-page.html	GET
+2025-07-28	16:03:06	1ed3ace0-5e43-487e-8493-7fefddfb25f9	/new-page.html	GET
+2025-07-28	16:03:06	7b92e817-b9d5-4860-86ea-1f72a4ffd864	/css/style.css	GET
+2025-07-28	16:03:06	72375628-d76e-4711-bbbb-53cfc3e77563	/img/img1.jpg	GET
+2025-08-01	13:45:09	62fca692-33e5-420b-ac80-74cf6685af0e	GET	undefined	/
+2025-08-01	13:45:09	6c270028-ca48-489a-8175-2d8006733093	GET	undefined	/css/style.css
+2025-08-01	13:48:15	e56b997a-d62b-4fad-be7c-37d3a5d19dd3	GET	undefined	/
+2025-08-01	13:48:15	0e6085b6-8a14-4308-bbf1-70a2c56f57e4	GET	undefined	/css/style.css
+2025-08-01	13:51:50	171b7221-7b76-4018-919b-6439bec192af	GET	chrome-untrusted://new-tab-page	/
+2025-08-01	14:01:30	a4cf04fb-c416-40cd-942a-b7fdce664229	GET	undefined	/
+2025-08-01	14:02:12	f0b81441-f436-46a9-b2e1-a48c5a7ca8ec	GET	undefined	/
+2025-08-01	14:02:12	183e14cf-a78b-41c7-80f5-f55f82aac815	GET	undefined	/css/style.css
+2025-08-01	14:03:02	3957dafa-f609-4327-b12b-90f144ec2def	GET	undefined	/
+2025-08-01	14:07:18	1de212d5-4f8a-403b-9f2c-10739cab5889	GET	undefined	/
+2025-08-01	14:07:18	c923f396-5b77-4f3a-adfe-2f673e659eae	GET	undefined	/css/style.css
+2025-08-02	01:02:28	44a4e0e4-5e5e-42ec-a2fd-4b288df4d287	GET	undefined	/
+2025-08-02	01:02:28	ad5d38f9-dd34-4088-855b-6bcd7e18dd65	GET	undefined	/css/style.css
+2025-08-02	01:02:28	e3897d0e-c6a8-4993-b532-25e87e056cc1	GET	undefined	/favicon.ico
+2025-08-02	01:02:35	fede157d-3e69-4f5c-8b5d-54b03ba5400c	GET	undefined	/subdir
+2025-08-02	01:02:43	3cd92ec2-cb59-4834-b364-a2f3e2babc6b	GET	undefined	/subdir/test
+2025-08-02	01:02:54	5142d0e6-9cbd-4b83-aebb-da89b7a19b2a	GET	undefined	/subdir/tests
+2025-08-02	01:02:54	aa3b765d-427f-4182-ae6b-592c5ce27e93	GET	undefined	/subdir/css/style.css
+2025-08-02	01:03:14	0c9fdab6-6743-43f2-9035-60e2a02cda78	GET	undefined	/
+2025-08-02	01:03:14	d0da14d3-20df-4b9b-b756-620671b5a27b	GET	undefined	/css/style.css
+2025-08-02	01:03:18	b35e71bf-38e3-4b52-b443-69ba629ec2ed	GET	undefined	/hjb
+2025-08-02	01:03:18	8bcab5a2-8f2a-4113-82fb-45a84df94bc7	GET	undefined	/css/style.css
+2025-08-02	01:03:29	a489e4b0-710b-48a8-b832-3b094a2b77ba	GET	undefined	/subdir/test
+2025-08-02	01:04:04	d17e248f-093b-400d-aa7f-313aaf2302bf	GET	undefined	/subdir/tests
+2025-08-02	01:04:04	89475f49-a513-46b4-82f6-7f6f04b5e4bc	GET	undefined	/subdir/css/style.css
+2025-08-02	01:08:27	a163fd00-5326-4287-bd14-a5a7939e3a96	GET	undefined	/
+2025-08-02	01:08:27	c9533c13-b63e-486b-96d3-56784463cbd5	GET	undefined	/css/style.css
+2025-08-02	01:08:34	3fc04b70-4f1c-4637-9315-6645017e1115	GET	undefined	/new-page
+2025-08-02	01:08:34	be1f1bc1-11ec-461c-bee2-c6cd4fb94d7e	GET	undefined	/img/img1.jpg
+2025-08-02	01:08:34	e62b02cd-c31f-42f6-ba7e-34028b63aa6e	GET	undefined	/css/style.css
+2025-08-02	01:08:42	9958d198-1939-4035-8838-9450966d8707	GET	undefined	/old-page
+2025-08-02	01:08:42	7911e89b-c6b6-48d2-a4ee-9687efaf63ce	GET	undefined	/new-page.html
+2025-08-02	01:08:42	70f59afd-a004-49b0-88d6-24ef4a3e7c7a	GET	undefined	/css/style.css
+2025-08-02	01:08:42	fac09c98-1e85-43dc-a326-3fa19353753b	GET	undefined	/img/img1.jpg
+2025-08-02	01:08:58	f7f10d6d-31ac-4192-9924-3ae2ffce41cc	GET	undefined	/index
+2025-08-02	01:08:58	6ce7f85d-3318-4e05-b904-a48768f80b04	GET	undefined	/css/style.css
+2025-08-02	01:22:18	25146d93-13e3-4cc6-90b0-278dcef9fa02	GET	undefined	/employees
+2025-08-02	01:22:44	f53b7af3-8f9d-4bc7-a186-f66b7682d573	POST	undefined	/employees
+2025-08-02	01:23:31	4b51432f-b1b2-49d2-997d-757e4a9fc3ab	POST	undefined	/employees
+2025-08-02	01:24:25	907bc164-cb22-4302-9fee-bd39955aca42	PUT	undefined	/employees
+2025-08-02	01:24:51	27dc6c16-d611-4f9c-8999-c164ede87372	DELETE	undefined	/employees
+2025-08-02	01:25:10	bfe5857e-c6ff-4eaa-8fe0-2c6ffe046a3c	GET	undefined	/employees/1
+2025-08-02	01:25:12	54acafec-5ec6-4312-a445-2b7a8d764016	GET	undefined	/employees/1
+2025-08-02	01:25:22	be018814-139f-45d9-8095-8ec25a4880d2	GET	undefined	/employees/2
